@@ -1,0 +1,62 @@
+/*
+====================================================
+Loan Default Analysis
+Author: Mercy Daramola
+
+Description:
+SQL queries used to explore the cleaned loan dataset
+and support the Power BI dashboard.
+
+====================================================
+*/
+-- ==========================================
+-- Portfolio Overview
+-- ==========================================
+
+-- Total Loans
+
+-- Total Loan Amount
+
+-- Average Loan Amount
+
+-- Total Outstanding Balance
+-- ==========================================
+-- Loan Default Analysis
+-- ==========================================
+
+-- Default Rate
+
+-- Loan Status
+
+-- Default by Grade
+
+-- Default by Interest Rate
+-- ==========================================
+-- Borrower Analysis
+-- ==========================================
+
+-- Income
+
+-- Employment Length
+
+-- Home Ownership
+
+-- Loan Purpose
+-- ==========================================
+-- Financial Analysis
+-- ==========================================
+
+-- Average Interest Rate
+
+-- Average DTI
+
+-- Outstanding Balance
+
+-- Total Repayment
+-- ==========================================
+-- Geographic Analysis
+-- ==========================================
+
+-- Loans by State
+
+-- Top Defaulting States
