@@ -97,4 +97,4 @@ README.md
 
 Junior Data Analyst
 
-LinkedIn:
+LinkedIn: www.linkedin.com/in/mercyy-daramola
