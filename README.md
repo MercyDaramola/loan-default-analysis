@@ -95,6 +95,6 @@ README.md
 
 **Mercy Daramola**
 
-Aspiring Data Analyst
+Junior Data Analyst
 
 LinkedIn:
