@@ -1,0 +1,35 @@
+# Dashboard User Guide
+
+The dashboard consists of two interactive pages.
+
+## Page 1
+
+Portfolio Overview
+
+Displays:
+
+- Total Loan Amount
+- Number of Clients
+- Outstanding Principal Balance
+- Default Rate
+
+Users can filter by:
+
+- Loan Grade
+- Loan Term
+
+---
+
+## Page 2
+
+Risk Analysis
+
+Displays:
+
+- Default Rate by Loan Grade
+- Default Rate by Interest Rate
+- Default Rate by Income Category
+- Default Rate by Debt-to-Income Ratio
+- Default Rate by Employment Length
+
+Navigation buttons allow movement between pages.
