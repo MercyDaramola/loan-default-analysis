@@ -1,0 +1,18 @@
+# Data Dictionary
+
+This document describes the key variables used in the Loan Default Analysis project.
+
+| Column | Description |
+|---------|-------------|
+| Loan_Id | Unique identifier for each loan |
+| Client_ID | Unique borrower identifier |
+| loan_amnt | Amount approved for the loan |
+| annual_inc | Borrower's annual income |
+| loan_status | Indicates whether the loan was fully paid or defaulted |
+| loan_grade | Credit grade assigned to the borrower |
+| interest_rate | Annual interest rate charged |
+| emp_length | Borrower's employment duration |
+| home_ownership | Home ownership status |
+| debt_income_ratio | Ratio of debt to annual income |
+| outstanding_principal_balance | Remaining unpaid loan balance |
+| purpose | Purpose of the loan |
