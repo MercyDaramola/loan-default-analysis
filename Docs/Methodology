@@ -1,0 +1,49 @@
+# Project Methodology
+
+The project followed a structured data analytics workflow.
+
+## 1. Data Collection
+
+Loan application data was obtained from the provided lending dataset.
+
+## 2. Data Cleaning
+
+The dataset was inspected for:
+
+- Missing values
+- Duplicate records
+- Inconsistent formatting
+- Invalid values
+
+Cleaning activities included:
+
+- Standardizing text values
+- Replacing missing values
+- Creating calculated categories
+- Validating numeric fields
+
+## 3. Data Analysis
+
+Exploratory analysis focused on identifying patterns related to loan defaults.
+
+Key variables included:
+
+- Loan Grade
+- Annual Income
+- Debt-to-Income Ratio
+- Employment Length
+- Interest Rate
+
+## 4. Dashboard Development
+
+Power BI was used to develop an interactive dashboard featuring:
+
+- KPI Cards
+- Charts
+- Slicers
+- Navigation Buttons
+- Business Insights
+
+## 5. Reporting
+
+Insights were documented together with business recommendations to support decision-making.
