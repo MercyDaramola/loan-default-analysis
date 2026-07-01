@@ -65,6 +65,19 @@ The dataset contains loan applicant information, including:
 - Outstanding balances are concentrated among higher-risk borrower segments.
 - Income alone is not a sufficient predictor of default.
 
+
+## Business Recommendations
+
+Based on the findings, the following recommendations are proposed:
+
+- Strengthen credit assessment procedures for lower loan grades.
+- Introduce stricter debt-to-income thresholds during loan approval.
+-  Review risk-based pricing strategies to balance profitability with borrower affordability.
+-  Enhance employment verification for applicants with limited employment history.
+-  Monitor high-risk borrowers using an early warning system.
+-  Conduct periodic portfolio reviews to identify deteriorating borrower segments.
+
+
 ---
 
 ## Dashboard
